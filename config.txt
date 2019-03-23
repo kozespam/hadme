@@ -1,6 +1,6 @@
 owner=508208562145722368
-prefix=pplay
-game=Break | pplay
+prefix=qplay
+game=Break | qplay
 stayinchannel=true
 songinstatus=true
 token=NTU5MDkzOTg0NDIxNzQwNTc2.D3gYjA.f8pTSdvxjQu6V2ZGaxq5xc_p8kg
